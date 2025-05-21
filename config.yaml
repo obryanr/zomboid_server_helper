@@ -1,0 +1,13 @@
+server:
+  name: servertest
+  config_dirpath: Zomboid/Server
+  logs_dir_path: Zomboid/Logs
+  start_server_filepath: /opt/pzserver/start-server.sh
+  tmux_session_name: zomboid-server
+
+telegram_bot:
+  tmux_session_name: zomboid-helper
+
+other:
+  mod_manager_timeout: 10
+  minimum_agree_members_for_mod: 3
