@@ -1,1 +1,1 @@
-# zomboid_server_helper
+# Zomboid Server Helper
